@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📖 Laravel Project - Book Management System
 
 ## 🛠️ Project Overview
